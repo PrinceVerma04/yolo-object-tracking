@@ -2,6 +2,15 @@
 
 Detects objects frame-by-frame in a video using a pretrained YOLOv8 model (Ultralytics) and OpenCV, draws bounding boxes with class labels, displays the result live, and saves it to an output video file.
 
+## Sample Video
+
+
+
+https://github.com/user-attachments/assets/f0c3cbb5-b2c7-418e-b89d-34f2efacb17a
+
+
+
+
 ## Sample Output
 
 | Input | Output (with detections) |
