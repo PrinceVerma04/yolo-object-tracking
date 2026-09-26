@@ -17,10 +17,6 @@ https://github.com/user-attachments/assets/f0c3cbb5-b2c7-418e-b89d-34f2efacb17a
 |---|---|
 | ![input](input_sample.jpg) | ![output](output_sample.jpg) |
 
-### Demo Video
-
-[▶ Watch the annotated output video](output.mp4)
-
 ## Requirements
 
 - Python 3.10+
