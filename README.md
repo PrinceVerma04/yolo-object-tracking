@@ -6,7 +6,10 @@ Detects objects frame-by-frame in a video using a pretrained YOLOv8 model (Ultra
 
 
 
-https://github.com/user-attachments/assets/f0c3cbb5-b2c7-418e-b89d-34f2efacb17a
+
+
+https://github.com/user-attachments/assets/cc3b616f-955f-4d18-8e7f-ab03c5a033f1
+
 
 
 
